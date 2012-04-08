@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='HelloWorld'>
+    <inherits name='com.google.gwt.user.User'/>
+    <inherits name='ScalaLibrary'/>
+    <entry-point class='com.nefariouszhen.helloworld.client.HelloWorld'/>
+    <source path='client'/>
+</module>
